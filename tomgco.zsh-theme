@@ -1,4 +1,4 @@
-# dmno flavoured zsh based almost entirely on steeef's theme:
+# tomgco flavoured zsh based almost entirely on steeef's theme with a hint of dmno:
 # https://github.com/steeef/oh-my-zsh
 #
 # prompt style and colors based on Steve Losh's Prose theme:
